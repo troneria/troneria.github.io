@@ -1,3 +1,3 @@
-#Troneria .dev
+# Troneria
 
 Made with GitHub pages
